@@ -47,7 +47,7 @@ Healthcare organizations face rising employee stress, burnout, and turnover. Thi
 - Screenshots for preview
 
 ## Preview
-
+![Dashboard preview](https://github.com/Prashant0362/Mental-health-workforce-dashboard/blob/main/Mental%20health%20and%20workforce.png)
 
 
 

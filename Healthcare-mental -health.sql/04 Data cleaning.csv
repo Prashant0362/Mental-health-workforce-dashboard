@@ -1,0 +1,11 @@
+Department,eap_yes_avg,eap_no_avg,eap_yes_count,eap_no_count
+"General Practice",7.0,9.5,263,109
+"Assisted Living",7.0,9.4,367,135
+Laboratory,6.5,8.8,253,101
+Radiology,6.4,8.5,269,107
+ICU,7.6,9.7,349,139
+"Specialty Care",7.0,9.1,247,96
+Administration,5.1,7.0,383,124
+"Outpatient Services",7.0,8.8,376,137
+"General Medicine",7.2,9.0,904,379
+Pediatrics,6.8,8.5,183,79

@@ -1,0 +1,11 @@
+Department,workplace_factor,avg_stress,employee_count,stress_rank
+Administration,"Poor Work Environment",6.90,147,1
+Administration,"Job Insecurity",5.69,85,2
+Administration,"Career Stagnation",4.72,275,3
+"Assisted Living","Heavy Workload",8.22,259,1
+"Assisted Living","Poor Work Environment",6.99,87,2
+"Assisted Living","Emotional Demands",6.77,156,3
+"General Medicine","Heavy Workload",8.22,796,1
+"General Medicine","Work-Life Imbalance",8.01,128,2
+"General Medicine","Poor Work Environment",7.03,234,3
+"General Medicine","Unclear Job Expectations",4.79,56,4

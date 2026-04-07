@@ -1,0 +1,11 @@
+Employee_ID,Employee_Type,Department,Mental_Health_Absences,absence_quintile
+HCP-03764,"Critical Care Nurse",ICU,19,1
+HCP-00647,"Medical Assistant","Outpatient Services",18,1
+HCP-01036,"Nursing Assistant","Assisted Living",18,1
+HCP-01425,"Laboratory Technician",Laboratory,18,1
+HCP-04832,"Nursing Assistant","Assisted Living",18,1
+HCP-03803,"Healthcare Administrator",Administration,17,1
+HCP-04501,"Medical Assistant","Outpatient Services",17,1
+HCP-04900,"Radiology Technician",Radiology,17,1
+HCP-00132,"Registered Nurse","General Medicine",17,1
+HCP-02216,"Critical Care Nurse",ICU,17,1

@@ -11,6 +11,7 @@ This dashboard helps analyze workforce wellbeing across departments and employee
 - Contains employee-level workforce data such as department, employee type, stress level, burnout risk, absences, and turnover indicators.
 
 ## Tech Stack
+- SQL
 - Power BI Desktop
 - Power Query
 - DAX
@@ -45,9 +46,17 @@ Healthcare organizations face rising employee stress, burnout, and turnover. Thi
 - Exported dashboard image/PDF
 - README documentation
 - Screenshots for preview
+- Healthcare mental health.sql file
 
 ## Preview
 ![Dashboard preview](https://github.com/Prashant0362/Mental-health-workforce-dashboard/blob/main/Mental%20health%20and%20workforce.png)
+
+## SQL analysis Workflow
+- Data import and schema review.
+- Data cleaning and preparation.
+- Exploratory analysis using SQL queries.
+- Advanced querying with joins, CTEs, and window functions.
+- Result validation and insight generation.
 
 
 

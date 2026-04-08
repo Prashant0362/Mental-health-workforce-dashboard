@@ -16,6 +16,12 @@ This dashboard helps analyze workforce wellbeing across departments and employee
 - Power Query
 - DAX
 - CSV Dataset
+- Python
+- Numpy
+- Matplotlib
+- Seaborn
+- jupyter
+- pandas
 
 ## Features / Highlights
 - KPI cards for key workforce metrics
@@ -57,6 +63,13 @@ Healthcare organizations face rising employee stress, burnout, and turnover. Thi
 - Exploratory analysis using SQL queries.
 - Advanced querying with joins, CTEs, and window functions.
 - Result validation and insight generation.
+
+## Pandas Data Analysis
+- Loaded and explored the cleaned healthcare dataset.
+- Performed statistical analysis on stress levels, burnout, and turnover.
+- Created visualization for department-wise mental health trends.
+- Generated insights using groupby, pivot table, and correlation analysis.
+- Exported key findings for Power Bi dashboard.
 
 
 
